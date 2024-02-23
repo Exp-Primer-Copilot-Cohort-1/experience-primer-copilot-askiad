@@ -20,6 +20,6 @@ module.exports = {
 var skills = require('./skills.js');
 
 skills.calculateNumbers(2, 3);
-skills.calculateProduct(2, 3);
+skills.calculateProduct(2, 4);
 skills.calculateDivision(2, 3);
 
